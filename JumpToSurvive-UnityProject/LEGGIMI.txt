@@ -1,0 +1,35 @@
+===============
+Jump To Survive
+===============
+
+Mantieni in vita il povero Wilson!
+----------------------------------
+
+Il povero Wilson è in balia della forza G.
+Soltanto tu, Scarpa Volante, potrai impedirgli di morire... subito!
+Colpiscilo bene per dargli l'angolazione desiderata e mantenerlo sospeso, ma stai attento ai disturbatori verdi che devieranno Wilson quando meno te lo aspetti!
+
+=======
+Display
+=======
+
+L'esperienza di gioco migliore è garantita con uno schermo/una finestra in 16:10 o 16:9.
+
+=========
+Controlli
+=========
+
+Frecce DX e SX    --> Movimento della Scarpa
+Barra Spaziatrice --> Avvia il gioco (quando richiesto dall'interfaccia)
+R                 --> Ricomincia
+
+===============
+Note importanti
+===============
+Gioco sviluppato da Riccardo Verza.
+
+Questo gioco è da intendersi espressamente sviluppato per la candidatura all'accesso alla borsa di studio per l'iscrizione alla Digital Bros Game Academy.
+"Cabbage Productions" è un nome inventato appositamente per questa applicazione.
+I media audio e le immagini utilizzati nel gioco sono stati scaricati al solo scopo di essere parte di questa applicazione dimostrativa, pertanto non sono stati approfonditi controlli in merito ai singoli copyright.
+
+Le releases di prova per Windows e WebGL sono presenti nella cartella "Releases".
